@@ -1,0 +1,23 @@
+.bot iframe
+{
+    height: 220px; 
+    width: 600px; 
+    position: absolute;
+    top: 1550px;
+    left: 450px;
+}
+
+.dev
+{
+    position: absolute;
+    height:110px;
+    background-color: black;
+    width:1492px;
+}
+
+.dev h2
+{
+    position: absolute;
+    top:20px;
+    left: 540px;
+}
