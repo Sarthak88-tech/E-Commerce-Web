@@ -169,7 +169,7 @@ if($_SESSION["uid"])
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
     <div class="dev">
-        <center><h2 style="color:white;">Developed by Avinash & Sarthak</h2></center>
+        <center><h2 style="color:red;">Developed by Avinash & Sarthak</h2></center>
     </div>
 
 </body>
